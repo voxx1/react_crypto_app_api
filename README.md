@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+App created with a help of some great Youtube tutorial to practise API and data fetching skills. 
+
+# [LIVE VERSION]
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
