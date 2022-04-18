@@ -1,6 +1,6 @@
 App created with a help of some great Youtube tutorial to practise API and data fetching skills. 
 
-# [LIVE VERSION]
+# [LIVE VERSION](https://main--statuesque-kataifi-12d278.netlify.app)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
